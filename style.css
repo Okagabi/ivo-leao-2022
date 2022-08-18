@@ -7,7 +7,7 @@ body {
 	padding: 30px;
 }
 
-h1 {
+.titulo1 {
 	text-align: center;
 	padding-left: 20px;
 }
@@ -17,7 +17,7 @@ h1 {
 	padding: 20px
 }
 
-h2 {
+.titulo2 {
 	text-align: center;
 }
 
