@@ -12,6 +12,10 @@ h1 {
 	style="padding-left: 20px";
 }
 
+h2 {
+	text-align: center"
+}
+
 .tema {
 	background: #CCCCCC;
 	padding: 20px
@@ -38,9 +42,6 @@ em strong {
 	padding: 20px;
 }
 
-h2 {
-	text-align: center;
-}
 ul {
 	display: inline-block;
 	vertical-align: top;
