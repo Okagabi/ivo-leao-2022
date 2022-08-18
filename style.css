@@ -12,7 +12,7 @@ h1 {
 	style="padding-left: 20px";
 }
 
-.tema {
+.tema1 {
 	background: #CCCCCC;
 	padding: 20px
 }
@@ -20,8 +20,6 @@ h1 {
 h2 {
 	text-align: center"
 }
-
-
 
 p {
 	text-align: center;
@@ -33,6 +31,11 @@ p {
 
 em strong {
 	color: #FF0000;
+}
+
+.tema2 {
+	background: #FFFFFF;
+	padding: 20px";
 }
 
 .itens {
