@@ -42,10 +42,6 @@ h3 {
 	text-align: center;
 }
 
-.itens {
-	font-style: italic
-}
-
 .beneficios {
 	background: #FFFFFF;
 	padding: 20px;
@@ -56,6 +52,10 @@ ul {
 	vertical-align: top;
 	width: 20%;
 	margin-right: 15%;
+}
+
+.itens {
+	font-style: italic
 }
 
 .imagembeneficios {
