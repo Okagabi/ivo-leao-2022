@@ -6,7 +6,7 @@ header {
 .caixa {
     position: relative;
     width: 940px;
-    margin: 0 auto;
+    margin: 0 50px;
 }
 
 .foto1 {
@@ -70,6 +70,18 @@ nav a:hover {
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
+}
+
+.foto2 {
+    width: 30%;
+}
+
+.foto3 {
+    width: 30%;
+}
+
+.foto4 {
+    width: 30%;
 }
 
 .produto-descricao {
