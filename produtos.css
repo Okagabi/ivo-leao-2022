@@ -9,6 +9,10 @@ header {
     margin: 0 auto;
 }
 
+.foto1 {
+    width: 30%;
+}
+
 nav {
     position: absolute;
     top: 110px;
