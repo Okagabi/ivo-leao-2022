@@ -33,7 +33,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #d62f9e;
+    color: #ffa929;
     text-decoration: underline;
 }
 
@@ -48,7 +48,7 @@ nav a:hover {
     text-align: center;
     width: 30%;
     vertical-align: top;
-    background: #ffb01c;
+    background: #fc9ddf;
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
