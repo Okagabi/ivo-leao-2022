@@ -102,5 +102,11 @@ footer {
 }
 
 .logofundo {
-    width: 30%;
+    width: 25%;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
 }
