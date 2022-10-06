@@ -1,5 +1,5 @@
 header {
-    background: #d30495;
+    background: #b90583;
     padding: 20px 0;
 }
 
@@ -48,7 +48,7 @@ nav a:hover {
     text-align: center;
     width: 30%;
     vertical-align: top;
-    background: #ee87dd;
+    background: #eea2e1;
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
@@ -97,7 +97,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: #CCCCCC;
+    background: #000000;
     padding: 40px 0;
 }
 
