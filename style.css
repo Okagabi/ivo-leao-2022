@@ -121,6 +121,7 @@ main {
 
 form {
     margin: 40px 0;
+    text-align: center;
 }
 
 form label, form legend {
