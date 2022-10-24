@@ -117,7 +117,6 @@ footer {
 
 form {
     margin: 40px 0;
-    text-align: center;
 }
 
 form label, form legend {
@@ -127,7 +126,6 @@ form label, form legend {
 }
 
 .input-padrao {
-    text-align: center;
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
@@ -254,6 +252,10 @@ td, th {
 
 .itens:first-child {
     font-weight: bold;
+}
+
+.itens:before {
+    content: "✭";
 }
 
 .imagem-beneficios {
