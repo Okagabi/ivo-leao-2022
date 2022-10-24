@@ -115,10 +115,6 @@ footer {
     margin: 20px 0 0;
 }
 
-main {
-    text-align: center;
-}
-
 form {
     margin: 40px 0;
     text-align: center;
@@ -131,6 +127,7 @@ form label, form legend {
 }
 
 .input-padrao {
+    text-align: center;
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
