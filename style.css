@@ -115,6 +115,10 @@ footer {
     margin: 20px 0 0;
 }
 
+main {
+    text-align: center;
+}
+
 form {
     margin: 40px 0;
 }
