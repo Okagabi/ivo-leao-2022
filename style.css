@@ -118,7 +118,7 @@ footer {
 
 .beneficios {
     padding: 3em 0;
-    background: #750080;
+    background: linear-gradient( #888888, #750080);
 }
 
 .conteudo-beneficios {
