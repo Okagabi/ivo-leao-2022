@@ -17,6 +17,30 @@ header {
     width: 40%;
 }
 
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffa929;
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     background: #444343;
