@@ -66,7 +66,7 @@ footer {
 
 .imagem1 {
     width: 100%;
-	height: 750px;
+	height: 500px;
 }
 
 .titulo-principal {
@@ -103,7 +103,7 @@ footer {
 
 .mapa {
     padding: 3em 0;
-    background: linear-gradient(#FEFEFE, #750080);
+    background: linear-gradient(#FEFEFE, #888888);
 }
 
 .mapa-conteudo {
@@ -118,7 +118,7 @@ footer {
 
 .beneficios {
     padding: 3em 0;
-    background: #888888;
+    background: #750080;
 }
 
 .conteudo-beneficios {
