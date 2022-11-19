@@ -43,7 +43,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url(fundo-estrelado.jpg) whidth: 25%;
+    background: url(fundo-estrelado.jpg);
     padding: 40px 0;
 }
 
