@@ -43,7 +43,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url(luxfundo.jpg);
+    background: url(fundo-lux.jpg);
     padding: 40px 0;
 }
 
@@ -118,7 +118,7 @@ footer {
 
 .beneficios {
     padding: 3em 0;
-    background: linear-gradient( #888888, #44004b);
+    background: linear-gradient( #888888, #703172);
 }
 
 .conteudo-beneficios {
